@@ -6,7 +6,7 @@
 ## Instructions
 
 <div>
-  <a href="/docs/en.md">Português</a>  
+  <a href="/docs/pt.md">Português</a>  
 </div>
 <div>
   <a href="/docs/en.md">English</a>
